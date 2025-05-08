@@ -4,6 +4,6 @@ plotly
 scikit-learn
 pmdarima
 matplotlib
-numpy==1.23.5
-scipy==1.10.1
+numpy
+scipy
 statsmodels
