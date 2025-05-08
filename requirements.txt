@@ -1,9 +1,9 @@
 streamlit
-pandas # pip сам подберет совместимую с numpy
+pandas
 plotly
-scikit-learn # pip сам подберет совместимую с numpy
-pmdarima # pip сам подберет совместимую с numpy/scipy
+scikit-learn
+pmdarima
 matplotlib
 numpy==1.23.5
-scipy==1.10.1 # или другая, совместимая с numpy 1.23.5
+scipy==1.10.1
 statsmodels
